@@ -623,7 +623,7 @@ class _MyHomePageState extends State<MyHomePage> {
     )]);
   }
 
-
+ 
   ListView _buildConnectDeviceView() {
     List<Container> containers = <Container>[];
 

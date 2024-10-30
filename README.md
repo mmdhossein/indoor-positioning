@@ -29,6 +29,6 @@ After connection app is trying to send live RSSI beacons of four APs to server w
 This project is only created for test environment **NOT** for production.
 
 ## Contact
-Created by Hossein mmd.hosseinnnn@gmail.com - feel free to contact me!
+Mohammad Hossein mmd.hosseinnnn@gmail.com - feel free to contact me!
 
 

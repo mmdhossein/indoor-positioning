@@ -1,7 +1,7 @@
 # Indoor-positioning
-> Indoor positioning flutter app with python back-end to estimate A person location inside building. 
+Indoor positioning flutter app with python back-end to estimate A person location inside building.
 
-# How this works?
+> How this works?
 
 The main aim of this project is to find people position inside closed areas such as hospital, subway metro, mall shoping etc...
 For achiving this, there are many ways but i implemented trilateration and AI based SVM algorithm.
